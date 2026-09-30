@@ -1,0 +1,6 @@
+.vscode
+.browserslistrc
+.editorconfig
+.angular
+dist
+node_modules
