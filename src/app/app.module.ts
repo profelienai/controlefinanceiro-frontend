@@ -3,6 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { ButtonModule } from 'primeng/button';
 import { InputTextModule } from 'primeng/inputtext';
+import { InputTextareaModule } from 'primeng/inputtextarea';
 import { TableModule } from 'primeng/table';
 import { TabViewModule } from 'primeng/tabview';
 import { TooltipModule } from 'primeng/tooltip';
@@ -26,6 +27,7 @@ import { LancamentoCadastroComponent } from './lancamento-cadastro/lancamento-ca
 
     ButtonModule,
     InputTextModule,
+    InputTextareaModule,
     TableModule,
     TabViewModule,
     TooltipModule
